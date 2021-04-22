@@ -26,3 +26,4 @@ readFile('./content/first.txt', 'utf8', (err, result) => {
 })
 
 console.log('next');
+// console.log('next');

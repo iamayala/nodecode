@@ -13,3 +13,4 @@ writeFileSync(
 )
 
 console.log('end');
+console.log('end');
