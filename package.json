@@ -1,0 +1,11 @@
+{
+    "name": "nodecode",
+    "version": "1.0.0",
+    "description": "first package created ",
+    "main": "1-intro.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "justxee",
+    "license": "ISC"
+}
