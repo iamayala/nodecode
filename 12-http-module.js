@@ -5,7 +5,7 @@
          res.end('Welcome to our home page')
      }
      if (req.url === '/about') {
-         res.end('Here is our short history')
+         res.end('Here is our short story about us')
      }
      res.end(`
         <h1>Oops!</h1>
