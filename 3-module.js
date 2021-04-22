@@ -6,6 +6,7 @@ const uncleBob = require('./6-alternative-flavor')
 console.log(uncleBob.items);
 console.log(uncleBob.singlePerson);
 
+// functions form anothe file
 sayHi('susan')
 sayHi(john)
 sayHi(peter)

@@ -1,7 +1,7 @@
 // local
 const secret = "SUPER SECRET"
 
-// share
+// shared files
 const john = 'john'
 const peter = 'peter'
 
